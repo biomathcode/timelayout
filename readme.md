@@ -1,4 +1,8 @@
 ## Build Your Own Calendar
+
+![Preview](./screenshot.gif)
+
+
  I tried to build a google Calendar keeping in mind the what, how and why. This Readme would give you a refresher on how apps like amie, rise, cron(notion calendar now), or google calendar works. I have tried to show the RADIO(requirement, high level Architecture, Data Model, API Design(model), Optimization/performace) process of any design system interview. Feedback or issue are welcome, if you find any mistakes in the technical context of writing or grammatical mistakes that i would have made on my side. 
 
 I also tried to write the code for the requirements and build a pretty good clone. In the beginning i was just prototyping in javascript thinking if i will be able to build something  complex or with the time limitation. Turn out i did. I rewrote the whole codebase in Typescript. Because why not. Rewriting or refactoring is the best way to learn something and also helps to correct my mistakes that i was not aware of in the beginning. I also didn't do much research while prototyping with javascript. I tried a some libraries that didn't solve my requirements. I faced a lot of issue with date type. 
